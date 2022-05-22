@@ -16,7 +16,7 @@ class Menu:
         bill += purchased
     return bill
     
-# Pourquoi je n'arrive pas à aller chercher un index dans le dictionnaire?
+# Pourquoi je n'arrive pas à aller chercher un index dans le dictionnaire : self.items(i[1]) ?
     
 
 brunch = Menu()
