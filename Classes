@@ -17,6 +17,7 @@ class Menu:
     return bill
     
 # Pourquoi je n'arrive pas à aller chercher un index dans le dictionnaire : self.items(i[1]) ?
+# J'ai trouvé après réflexion....:-)). Il fallait utiliser  .get(i)
     
 
 brunch = Menu()
